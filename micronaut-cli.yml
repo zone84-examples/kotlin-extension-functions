@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: tech.zone84.examples.extensionfunctions
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, data-mongodb, gradle, http-client, jackson-databind, junit, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, mongo-reactive, mongo-sync, netty-server, readme, shade, testcontainers, yaml]
